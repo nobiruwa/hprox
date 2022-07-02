@@ -30,7 +30,7 @@ dependencies:
 - http-types >= 0.12
 - optparse-applicative >= 0.14
 - tls >= 1.5
-- unix >= 2.7
+- unix-compat >= 0.5
 - wai >= 3.2.2
 - wai-extra >= 3.0
 - warp >= 3.2.8
